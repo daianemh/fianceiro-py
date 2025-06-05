@@ -42,5 +42,5 @@ finance_ai_project/
 ├── requirements.txt        # Dependências do projeto
 └── main.py                 # Script principal para rodar o dashboard
 
-Autor
+Autora
 Daiane Moreira Horbach
